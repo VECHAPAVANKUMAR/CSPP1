@@ -1,2 +1,3 @@
-print("Assignment-1")
-print("Completed ")
+def add (a,b) {
+    return a + b
+}
