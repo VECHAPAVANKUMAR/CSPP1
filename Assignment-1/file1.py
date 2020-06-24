@@ -1,3 +1,6 @@
-from file1 import *
+def add(a,b):
+    return a + b
+def sub(a,b):
+    return a - b
 
-assert(add(2,3)) == 5
+
