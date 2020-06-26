@@ -1,0 +1,26 @@
+{
+    "source": {
+        "g:\\Github\\CSPP1\\Assignment-1\\Assignment2\\Solution\\file1.py": {
+            "keystrokes": 2,
+            "add": 2,
+            "paste": 0,
+            "delete": 0,
+            "lines": 3,
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "syntax": "python",
+            "start": "Thu Jun 25 2020 11:39:55 GMT+0530 (India Standard Time)",
+            "end": "Thu Jun 25 2020 11:42:14 GMT+0530 (India Standard Time)"
+        }
+    },
+    "keystrokes": 2,
+    "compileTimeErrors": 0,
+    "runTimeErrors": 0,
+    "autoGraderErrors": 0,
+    "failedTestCases": 1,
+    "passedTestCases": 2,
+    "project": {
+        "directory": "g:\\Github\\CSPP1\\Assignment-1"
+    },
+    "os": "Windows_NT_10.0.18362_win32"
+}
