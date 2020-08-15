@@ -7,4 +7,4 @@ def prod(a,b) :
 def div(a,b) :
     return a // b
 def main() :
-    add(2,3)
+    add(a,b)
